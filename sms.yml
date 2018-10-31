@@ -79,8 +79,8 @@ carriers:
 from_address: austin@test.com
 test:
   address: "smtp.gmail.com"
-  carrier: "Sprint"
-  password: "@Q@42W4bNn%$3ucE"
-  phone: "5402092817"
+  carrier: "yourcellphonecarrier"
+  password: "yourpassword"
+  phone: "yourphonenumber"
   port: 587
-  user: "tuckattack1@gmail.com"
+  user: "yourgmailemail"
